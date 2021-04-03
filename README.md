@@ -1,4 +1,4 @@
 # golang
 Golang for tutorial
-Lession 1
+Lesson 1
 ---Hello go
