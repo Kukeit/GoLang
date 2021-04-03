@@ -1,2 +1,2 @@
-# GoLang
+# goLang
 Golang for tutorial
